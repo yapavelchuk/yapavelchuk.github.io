@@ -1,0 +1,17 @@
+body {
+    font-size: 40px;
+    color: cornflowerblue;
+    background-color: azure;
+    font-style: italic;
+}
+
+h1 {
+    font-size: 50px;
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+font-size: 30px;
+text-align: center;
+}
